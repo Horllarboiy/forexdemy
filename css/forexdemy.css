@@ -335,7 +335,7 @@ input[type="submit"]:hover {
 }
 
 .gallery-2 {
-    background: linear-gradient(to left, rgb(31, 31, 41), rgba(210, 179, 86, 0.1)), url("../images/gallery-images/gallery-2.JPG") no-repeat bottom;
+    background: linear-gradient(to left, rgb(31, 31, 41), rgba(210, 179, 86, 0.1)), url("../images/banner-images/banner-2.jpg") no-repeat bottom;
     background-size: cover;
     height: 100vh;
     width: 100vw;
